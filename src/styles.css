@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image:url("src/images/todoBackground.jpg");
+  background-image:url("/src/images/todoBackground.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; 
